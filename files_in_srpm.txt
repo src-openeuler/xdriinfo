@@ -1,0 +1,2 @@
+xdriinfo-1.0.7.tar.xz
+xdriinfo.spec
